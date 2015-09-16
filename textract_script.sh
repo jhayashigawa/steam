@@ -31,7 +31,7 @@ server_setup()
 
 	ess create database game_entries
 	ess create table appid_stats s:query_date s,pkey:appid s:Title i:grade i:n_reviews f:retail_price f:sale_price i:time0 i:cur_time i,tkey:delta_t f:percent
-	ess create vector first_seen s,pkey:appid s,+first:query_date
+	ess create vector first_seen s,pkey:appid s,+first:query_date i,+max:n_reviews
 	#	ess create vector popular s,pkey:appid i,+max:n_reviews
 	ess server commit
 	ess server summary
@@ -46,7 +46,7 @@ process_data()
 	"aq_pp -f,eok - -d %cols -imp game_entries:first_seen" --progress --debug
 
 	ess exec "aq_udb -exp game_entries:first_seen -o,notitle -\\
-	 | aq_pp -d s:appid s:query_date -mapf appid '%*,%%bundles%%' \\
+	 | aq_pp -d s:appid s:query_date i:n_reviews -mapf appid '%*,%%bundles%%' \\
 	-mapc s:bundles '%%bundles%%' -filt 'bundles == \"\"'" \
 	> all_first_seen_dates.csv
 }
@@ -62,9 +62,9 @@ filter_incomplete()
 convert_time()
 {	# take query_date and convert into seconds under first_time parameter
 	# then output to new csv.
-	aq_pp -f,+1 first_seen_dates.csv -d s:appid s:query_date x \
+	aq_pp -f,+1 first_seen_dates.csv -d s:appid s:query_date i:n_reviews x \
 		-eval i:time0 'DateToTime(query_date,"Y.m.d")' \
-		-c appid time0 > appids_list.csv
+		-c appid time0 n_reviews > nreviewtest.csv
 
 }
 
@@ -102,5 +102,5 @@ server_setup
 process_data
 filter_incomplete
 convert_time
-calc_stats
+#calc_stats
 

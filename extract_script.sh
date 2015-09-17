@@ -44,7 +44,6 @@ process_data()
 	ess stream steam_queries "*" "*" \
 	"aq_pp -f,eok - -d %cols -imp game_entries:lookup_stats"\
 	 --progress --debug
-
 	ess exec "aq_udb -exp game_entries:lookup_stats -o,notitle -\\
 	 | aq_pp -d s:appid s:query_date i:n_reviews \\
 	-mapf appid '%*,%%bundles%%' \\
@@ -81,6 +80,7 @@ calc_stats()
 		s:query_date s:appid s:Title X i:grade i:n_reviews \\
 		s:full_price s:discount_price X \\
 		-cmb,+1 appids_list.csv s:appid i:time0 \\
+\\#		-sub
 		-filt 'time0 > 0' \\
 		-eval i:cur_time 'DateToTime(query_date,\"Y.m.d\")' \\
 		-eval i:delta_t 'cur_time-time0' \\

@@ -1258,3 +1258,1271 @@ WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
     CMD : localget --pattern="" -f  /data/steam/steam_store_20150526.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
 WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
 
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141029.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141030.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141031.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141101.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141102.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141103.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141104.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141105.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141106.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141107.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141108.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141109.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141110.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141111.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141112.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141113.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141114.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141115.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141116.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141117.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141118.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141119.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141120.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141121.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141122.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141123.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141124.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141125.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141126.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141127.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141128.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141129.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141130.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141201.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141202.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141203.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141204.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141205.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141206.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141207.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141208.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141209.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141210.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141211.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141212.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141213.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141214.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141215.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141216.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141217.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141218.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141219.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141220.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141221.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141222.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141223.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141224.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141225.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141226.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141227.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141228.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141229.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141230.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141231.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150101.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150102.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150103.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150104.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150105.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150106.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150107.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150108.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150109.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150110.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150111.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150112.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150113.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150114.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150115.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150116.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150117.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150118.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150119.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150120.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150121.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150122.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150123.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150124.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150125.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150126.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150127.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150128.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150129.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150130.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150131.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150201.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150202.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150203.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150204.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150205.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150206.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150207.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150208.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150209.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150210.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150211.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150212.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150213.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150214.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150215.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150216.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150217.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150218.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150219.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150220.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150221.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150222.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150223.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150224.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150225.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150226.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150227.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150228.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150301.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150302.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150303.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150304.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150305.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150306.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150307.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150308.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150309.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150310.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150311.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150312.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150313.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150314.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150315.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150316.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150317.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150318.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150319.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150320.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150321.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150322.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150323.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150324.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150325.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150326.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150327.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150328.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150329.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150330.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150331.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150401.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150402.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150403.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150404.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150405.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150406.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150407.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150408.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150409.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150410.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150411.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150412.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150413.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150414.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150415.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150416.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150417.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150418.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150419.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150420.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150421.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150422.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150423.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150424.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150425.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150426.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150427.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150428.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150429.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150430.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150501.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150502.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150503.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150504.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150505.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150506.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150507.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150508.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150509.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150510.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150511.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150512.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150513.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150514.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150515.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150516.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150517.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150518.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150519.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150520.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150521.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150522.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150523.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150524.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150525.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150526.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : aq_udb -exp game_entries:lookup_stats -\
+	 | aq_pp -d s:appid s:query_date i:n_reviews \
+	-mapf appid '%*,%%bundles%%' \
+	-mapc s:bundles '%%bundles%%' -filt 'bundles == ""'
+WARNING : Unknown option at arg#3:
+WARNING :  ... -
+WARNING : aq_udb: option spec error
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141029.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141030.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141031.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141101.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141102.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141103.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141104.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141105.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141106.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141107.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141108.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141109.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141110.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141111.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141112.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141113.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141114.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141115.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141116.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141117.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141118.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141119.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141120.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141121.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141122.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141123.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141124.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141125.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141126.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141127.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141128.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141129.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141130.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141201.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141202.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141203.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141204.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141205.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141206.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141207.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141208.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141209.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141210.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141211.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141212.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141213.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141214.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141215.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141216.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141217.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141218.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141219.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141220.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141221.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141222.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141223.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141224.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141225.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141226.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141227.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141228.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141229.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141230.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20141231.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150101.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150102.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150103.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150104.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150105.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150106.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150107.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150108.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150109.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150110.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150111.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150112.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150113.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150114.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150115.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150116.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150117.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150118.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150119.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150120.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150121.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150122.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150123.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150124.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150125.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150126.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150127.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150128.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150129.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150130.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150131.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150201.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150202.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150203.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150204.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150205.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150206.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150207.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150208.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150209.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150210.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150211.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150212.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150213.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150214.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150215.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150216.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150217.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150218.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150219.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150220.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150221.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150222.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150223.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150224.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150225.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150226.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150227.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150228.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150301.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150302.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150303.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150304.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150305.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150306.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150307.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150308.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150309.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150310.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150311.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150312.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150313.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150314.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150315.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150316.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150317.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150318.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150319.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150320.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150321.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150322.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150323.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150324.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150325.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150326.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150327.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150328.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150329.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150330.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150331.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150401.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150402.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150403.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150404.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150405.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150406.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150407.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150408.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150409.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150410.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150411.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150412.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150413.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150414.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150415.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150416.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150417.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150418.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150419.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150420.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150421.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150422.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150423.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150424.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150425.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150426.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150427.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150428.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150429.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150430.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150501.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150502.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150503.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150504.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150505.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150506.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150507.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150508.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150509.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150510.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150511.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150512.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150513.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150514.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150515.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150516.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150517.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150518.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150519.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150520.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150521.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150522.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150523.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150524.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150525.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+
+    CMD : localget --pattern="" -f  /data/steam/steam_store_20150526.csv.gz | aq_pp -f,eok - -d S:query_date S:appid S:Title S:review I:grade I:n_reviews S:full_price S:discount_price S:release_date -imp game_entries:lookup_stats
+WARNING : <stdin>: Bad field value: byte=1+104 line=1+1 field=grade
+

@@ -30,7 +30,7 @@ server_setup()
 	# first occurrence of each appid. start server and flash up summary.
 
 	ess create database game_entries
-	ess create table appid_stats s:query_date s,pkey:appid s:Title i:grade f:retail_price f:sale_price i:time0 i:reviews i:cur_time i,tkey:delta_t f:percent
+	ess create table appid_stats s:query_date s,pkey:appid s:Title f:grade f:retail_price f:sale_price i:time0 i:reviews i:cur_time i,tkey:delta_t f:percent
 	ess create vector lookup_stats s,pkey:appid s,+first:query_date i,+max:n_reviews
 	ess server commit
 	ess server summary
@@ -47,7 +47,8 @@ process_data()
 	ess exec "aq_udb -exp game_entries:lookup_stats -o,notitle -\\
 	 | aq_pp -d s:appid s:query_date i:n_reviews \\
 	-mapf appid '%*,%%bundles%%' \\
-	-mapc s:bundles '%%bundles%%' -filt 'bundles == \"\"'" \
+	-mapc s:bundles '%%bundles%%' -filt 'bundles == \"\"'
+	-renam n_reviews reviews" \
 	> all_first_seen_dates.csv
 }
 
@@ -64,11 +65,17 @@ generate_lookup()
 	# and filter out unreviewed games. now output to new csv as a lookup
 	# table to be used in -cmb
 
-	aq_pp -f,+1 first_seen_dates.csv -d s:appid s:query_date i:n_reviews x \
+	aq_pp -f,+1 first_seen_dates.csv -d s:appid s:query_date i:reviews x \
 		-eval i:time0 'DateToTime(query_date,"Y.m.d")' \
 		-filt 'n_reviews > 0' \
-		-renam n_reviews reviews \
 		-c appid time0 reviews > appids_list.csv
+
+}
+
+popularity_sort()
+{	# using aq_ord, 
+	
+	
 
 }
 

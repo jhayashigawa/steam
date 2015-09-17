@@ -31,8 +31,7 @@ server_setup()
 
 	ess create database game_entries
 	ess create table appid_stats s:query_date s,pkey:appid s:Title i:grade i:n_reviews f:retail_price f:sale_price i:time0 i:cur_time i,tkey:delta_t f:percent
-	ess create vector first_seen s,pkey:appid s,+first:query_date
-	#	ess create vector popular s,pkey:appid i,+max:n_reviews
+	ess create vector lookup_stats s,pkey:appid s,+first:query_date i,+max:n_reviews
 	ess server commit
 	ess server summary
 }
@@ -43,15 +42,17 @@ process_data()
 	# with any bundles (comma separated appids) filtered out.
 
 	ess stream steam_queries "*" "*" \
-	"aq_pp -f,eok - -d %cols -imp game_entries:first_seen" --progress --debug
+	"aq_pp -f,eok - -d %cols -imp game_entries:lookup_stats"\
+	 --progress --debug
 
-	ess exec "aq_udb -exp game_entries:first_seen -o,notitle -\\
-	 | aq_pp -d s:appid s:query_date -mapf appid '%*,%%bundles%%' \\
+	ess exec "aq_udb -exp game_entries:lookup_stats -o,notitle -\\
+	 | aq_pp -d s:appid s:query_date i:n_reviews \\
+	-mapf appid '%*,%%bundles%%' \\
 	-mapc s:bundles '%%bundles%%' -filt 'bundles == \"\"'" \
 	> all_first_seen_dates.csv
 }
 
-filter_incomplete()
+filter_incomplete_records()
 {	# grep out all of the appids that appear in the first log, because those
 	# do not have full data capture range, and so are incomplete.
 
@@ -59,12 +60,15 @@ filter_incomplete()
 	
 }
 
-convert_time()
+generate_lookup()
 {	# take query_date and convert into seconds under first_time parameter
-	# then output to new csv.
-	aq_pp -f,+1 first_seen_dates.csv -d s:appid s:query_date x \
+	# and filter out unreviewed games. now output to new csv as a lookup
+	# table to be used in -cmb
+
+	aq_pp -f,+1 first_seen_dates.csv -d s:appid s:query_date i:n_reviews x \
 		-eval i:time0 'DateToTime(query_date,"Y.m.d")' \
-		-c appid time0 > appids_list.csv
+		-filt 'n_reviews > 0' \
+		-c appid time0 n_reviews > appids_list.csv
 
 }
 
@@ -87,8 +91,8 @@ calc_stats()
 		-endif \\
 		-c query_date appid Title grade n_reviews retail_price \\
 		sale_price time0 cur_time delta_t percent \\
-		-imp game_entries:appid_stats" | head -n 150
-
+		-imp game_entries:appid_stats" --progress | head -n 150 
+		
 }
 
 #puttingback_inudb()
@@ -100,7 +104,7 @@ reset
 datastore_setup
 server_setup
 process_data
-filter_incomplete
-convert_time
-calc_stats
+filter_incomplete_records
+generate_lookup
+#calc_stats
 

@@ -7,7 +7,7 @@
         "appid_stats": "s:query_date s,pkey:appid s:Title i:grade i:n_reviews f:retail_price f:sale_price i:time0 i:cur_time i,tkey:delta_t f:percent"
       }, 
       "vector": {
-        "first_seen": "s,pkey:appid s,+first:query_date i,+max:n_reviews"
+        "lookup_stats": "s,pkey:appid s,+first:query_date i,+max:n_reviews"
       }, 
       "hash": "appid", 
       "numports": 1

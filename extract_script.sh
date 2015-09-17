@@ -30,7 +30,7 @@ server_setup()
 	# first occurrence of each appid. start server and flash up summary.
 
 	ess create database game_entries
-	ess create table appid_stats s:query_date s,pkey:appid s:Title i:grade i:n_reviews f:retail_price f:sale_price i:time0 i:cur_time i,tkey:delta_t f:percent
+	ess create table appid_stats s:query_date s,pkey:appid s:Title i:grade f:retail_price f:sale_price i:time0 i:reviews i:cur_time i,tkey:delta_t f:percent
 	ess create vector lookup_stats s,pkey:appid s,+first:query_date i,+max:n_reviews
 	ess server commit
 	ess server summary
@@ -67,7 +67,8 @@ generate_lookup()
 	aq_pp -f,+1 first_seen_dates.csv -d s:appid s:query_date i:n_reviews x \
 		-eval i:time0 'DateToTime(query_date,"Y.m.d")' \
 		-filt 'n_reviews > 0' \
-		-c appid time0 n_reviews > appids_list.csv
+		-renam n_reviews reviews \
+		-c appid time0 reviews > appids_list.csv
 
 }
 
@@ -77,11 +78,11 @@ calc_stats()
 	# For valid entries, calculate the cur_time, time elapsed since
 	# released (delta_t), and discount percentage (percent).
 	ess stream steam_queries "*" "*" "aq_pp -f,+1,eok - -d \\
-		s:query_date s:appid s:Title X i:grade i:n_reviews \\
+		s:query_date s:appid s:Title X i:grade X \\
 		s:full_price s:discount_price X \\
-		-cmb,+1 appids_list.csv s:appid i:time0 \\
-\\#		-sub
+		-cmb,+1 appids_list.csv s:appid i:time0 i:reviews \\
 		-filt 'time0 > 0' \\
+		-filt 'reviews > 0' \\
 		-eval i:cur_time 'DateToTime(query_date,\"Y.m.d\")' \\
 		-eval i:delta_t 'cur_time-time0' \\
 		-eval f:retail_price 'ToF(full_price)' \\
@@ -89,8 +90,8 @@ calc_stats()
 		-if -filt 'retail_price>0' -eval f:percent \\
 		'(retail_price-sale_price)/retail_price' \\
 		-endif \\
-		-c query_date appid Title grade n_reviews retail_price \\
-		sale_price time0 cur_time delta_t percent \\
+		-c query_date appid Title grade retail_price \\
+		sale_price time0 reviews cur_time delta_t percent \\
 		-imp game_entries:appid_stats" --progress | head -n 150 
 		
 }
@@ -106,5 +107,5 @@ server_setup
 process_data
 filter_incomplete_records
 generate_lookup
-#calc_stats
+calc_stats
 

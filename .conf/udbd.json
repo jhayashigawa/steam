@@ -4,7 +4,7 @@
     "game_entries": {
       "variable": "", 
       "table": {
-        "appid_stats": "s:query_date s,pkey:appid s:Title i:grade i:n_reviews f:retail_price f:sale_price i:time0 i:cur_time i,tkey:delta_t f:percent"
+        "appid_stats": "s:query_date s,pkey:appid s:Title i:grade f:retail_price f:sale_price i:time0 i:reviews i:cur_time i,tkey:delta_t f:percent"
       }, 
       "vector": {
         "lookup_stats": "s,pkey:appid s,+first:query_date i,+max:n_reviews"

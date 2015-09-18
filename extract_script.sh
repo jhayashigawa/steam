@@ -91,7 +91,7 @@ calc_stats()
 	ess stream steam_queries "*" "*" "aq_pp -f,+1,eok - -d \\
 		s:query_date s:appid s:Title X X X \\
 		s:full_price s:discount_price X \\
-		-cmb,+1 appids_list.csv s:appid i:time0 i:grade i:reviews \\
+		-cmb,+1 sorted_appids.csv s:appid i:time0 i:grade i:reviews \\
 		-filt 'time0 > 0' \\
 		-filt 'reviews > 0' \\
 		-eval i:cur_time 'DateToTime(query_date,\"Y.m.d\")' \\
@@ -107,10 +107,12 @@ calc_stats()
 		
 }
 
-#puttingback_inudb()
-	# export results with udb command only pick a few columns like
-	# appid, title, time0, time, grade, n_reviews
 
+output_records()
+{	# use aq_udb to pipe the time records of top 25 titles to csv
+	ess exec "aq_udb -exp game_entries:appid_stats" > top_records.csv
+
+}
 
 reset
 datastore_setup
@@ -120,4 +122,4 @@ filter_incomplete_records
 generate_lookup
 popularity_sort
 calc_stats
-
+output_records

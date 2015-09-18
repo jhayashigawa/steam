@@ -1,4 +1,4 @@
-# Generated on 2015-09-17 21:44:35.088551
+# Generated on 2015-09-18 02:34:24.016365
 @Server:
 127.0.0.1|127.0.0.1:10010
 
@@ -19,6 +19,7 @@ f:percent
 @Vector:lookup_stats
 s,pkey:appid
 s,+first:query_date
+i,+last:grade
 i,+max:n_reviews
 
 
